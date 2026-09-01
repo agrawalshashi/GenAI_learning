@@ -1,5 +1,6 @@
- .ipynb_checkpoints/
+.ipynb_checkpoints/
 results/
 __pycache__/
 *.pyc
 saved_summary_model/model.safetensors
+TextSummarizerApp/saved_summary_model/model.safetensors
